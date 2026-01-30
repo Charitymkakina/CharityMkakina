@@ -1,16 +1,57 @@
-## Hi there 👋
+ 👋 Hi, I'm Charity Mkakina
 
-<!--
-**Charitymkakina/CharityMkakina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Cloud Learner  
+Networking and Pentesting Enthusiast  
+AWS + Linux + Security Projects Builder  
 
-Here are some ideas to get you started:
+I’m passionate about cybersecurity, networking, and cloud technologies. I enjoy building security awareness tools, experimenting with network analysis, and documenting what I learn through projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+
+TryHackMe labs & hands-on practice
+Network scanning & enumeration (Nmap, Linux tools)
+AWS Cloud security and monitoring projects
+Cybersecurity awareness applications
+Python security tools
+
+ Skills & Tools
+Security & Networking
+- Nmap,Wireshark
+- Network Scanning
+- Basic Pentesting Concepts
+- Cybersecurity Awareness
+
+Cloud
+- AWS EC2
+- CloudWatch
+- IAM
+- S3
+
+Technical
+- Python
+- Linux
+- Git & GitHub
+- HTML / CSS / JavaScript
+- VirtualBox & Kali Linux
+
+Featured Projects
+Cybersecurity Awareness Website  
+Phishing Awareness Interactive App  
+Password Strength Checker  
+Network Packet Sniffer (Python)  
+Cloud Monitoring Dashboard (AWS)
+
+Learning Journey
+
+I’m continuously improving my skills through:
+- Hands-on labs
+- Security projects
+- Cloud practice
+- Networking exercises
+
+
+
+Connect With Me
+
+- GitHub: 
+
