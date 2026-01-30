@@ -53,5 +53,7 @@ I’m continuously improving my skills through:
 
 Connect With Me
 
-- GitHub: 
+- GitHub: https://github.com/Charitymkakina
+- Medium: https://medium.com/@charitymkakina1
+- LinkedIn: https://www.linkedin.com/in/charity-mkakina-a879b1346
 
