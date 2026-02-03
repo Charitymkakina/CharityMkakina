@@ -4,7 +4,7 @@ Cybersecurity & Cloud Learner
 Networking and Pentesting Enthusiast  
 AWS + Linux + Security Projects Builder  
 
-I’m passionate about cybersecurity, networking, and cloud technologies. I enjoy building security awareness tools, experimenting with network analysis, and documenting what I learn through projects.
+I’m passionate about cybersecurity, networking, and cloud technologies. I enjoy researching, exploring, and reading security awareness tools, experimenting with network analysis, and documenting what I learn through projects.
 
 Current Focus
 
