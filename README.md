@@ -1,4 +1,4 @@
- 👋 Hi, I'm Charity Mkakina
+ Hi, I'm Charity Mkakina
 
 Cybersecurity & Cloud Learner  
 Networking and Pentesting Enthusiast  
